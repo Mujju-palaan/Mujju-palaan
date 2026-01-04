@@ -20,8 +20,6 @@ Email Me 👉 ✉️ **devmujju@gmail.com** For Collaboration/Project or Anythin
 ![](https://nirzak-streak-stats.vercel.app/?user=Mujju-palaan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujju-palaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Mujju-palaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mujju-palaan&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mujju-palaan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
