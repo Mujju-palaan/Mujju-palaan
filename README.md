@@ -1,30 +1,27 @@
 # 💫 About Me:
-<h2>🔭 I’m currently working on</h2>
+<h3>🔭 I’m currently working on</h3>
 <p>*Building real-world projects using React, Next.js, and TypeScript</p>
 <p>*Implementing scalable UI logic with Context API, Redux Toolkit, and custom hooks</p>
 <p>*Improving backend data handling with SQL & PostgreSQL</p>
 <p>*Creating production-ready components and clean application architecture</p>
-<br>
-<h2>👯 I’m looking to collaborate on</h2>
+<!-- <br> -->
+<h3>👯 I’m looking to collaborate on</h3>
 <p>*Open-source React / Next.js projects</p>
 <p>*Full-stack applications involving Node.js + PostgreSQL</p>
 <p>*UI/UX-focused frontend projects with real business logic</p>
-
-<br>
-<h2>🤝 I’m looking for help with</h2>
+<!-- <br> -->
+<h3>🤝 I’m looking for help with</h3>
 <p>*Advanced Next.js (App Router, Server Actions, performance optimization)</p>
-<p*Writing cleaner, scalable TypeScript types</p>
+<p>*Writing cleaner, scalable TypeScript types</p>
 <p>*Best practices for state management and large-scale frontend architecture</p>
-
-<br>
-<h2>🌱 I’m currently learning</h2>
+<!-- <br> -->
+<h3>🌱 I’m currently learning</h3>
 <p>*Advanced TypeScript patterns</p>
 <p>*Next.js 14+ features (App Router, server components)</p>
 <p>*Performance optimization and code quality best practices</p>
 <p>*Better database design and querying with PostgreSQL</p>
-
-<br>
-<h2>⚡ Fun fact</h2>
+<!-- <br> -->
+<h3>⚡ Fun fact</h3>
 <p>*I enjoy breaking things just to understand why they work—and fixing them better afterward.</p>
 
 ## 🌐 Socials:
