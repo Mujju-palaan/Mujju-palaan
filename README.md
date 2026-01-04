@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on
+*Building real-world projects using React, Next.js, and TypeScript
+
+*Implementing scalable UI logic with Context API, Redux Toolkit, and custom hooks
+
+*Improving backend data handling with SQL & PostgreSQL
+
+*Creating production-ready components and clean application architecture
+<br>
+👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
