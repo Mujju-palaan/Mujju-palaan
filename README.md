@@ -1,15 +1,31 @@
 # 💫 About Me:
 🔭 I’m currently working on
-*Building real-world projects using React, Next.js, and TypeScript
-
-*Implementing scalable UI logic with Context API, Redux Toolkit, and custom hooks
-
-*Improving backend data handling with SQL & PostgreSQL
-
-*Creating production-ready components and clean application architecture
+<p>*Building real-world projects using React, Next.js, and TypeScript</p>
+<p>*Implementing scalable UI logic with Context API, Redux Toolkit, and custom hooks</p>
+<p>*Improving backend data handling with SQL & PostgreSQL</p>
+<p>*Creating production-ready components and clean application architecture</p>
 <br>
-👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👯 I’m looking to collaborate on
+<p>*Open-source React / Next.js projects</p>
+<p>*Full-stack applications involving Node.js + PostgreSQL</p>
+<p>*UI/UX-focused frontend projects with real business logic</p>
 
+<br>
+🤝 I’m looking for help with<p></p>
+<p>*Advanced Next.js (App Router, Server Actions, performance optimization)</p>
+<p*Writing cleaner, scalable TypeScript types</p>
+<p>*Best practices for state management and large-scale frontend architecture</p>
+
+<br>
+🌱 I’m currently learning
+<p>*Advanced TypeScript patterns</p>
+<p>*Next.js 14+ features (App Router, server components)</p>
+<p>*Performance optimization and code quality best practices</p>
+<p>*Better database design and querying with PostgreSQL</p>
+
+<br>
+⚡ Fun fact
+<p>*I enjoy breaking things just to understand why they work—and fixing them better afterward.</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.am.mujjuu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mujju-palaan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0Mujju0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devmujju@gmail.com) 
